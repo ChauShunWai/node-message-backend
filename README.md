@@ -1,6 +1,6 @@
 # node-message-backend 
-This is the repo I deployed to heroku.  
-[https://klaus-node-message.herokuapp.com/](https://klaus-node-message.herokuapp.com/)
+This is the repo I deployed to heroku:  
+[https://klaus-node-message.herokuapp.com/](https://klaus-node-message.herokuapp.com/)  
 The React front-end is provided by Maximilian Schwarzmüller from his Node.js course and not developed by me  
 I just changed the fetch api in the front-end code from RESTful api to Graph api.  
 Wrote some graphqlQuery.  
