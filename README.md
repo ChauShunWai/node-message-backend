@@ -12,7 +12,7 @@ You could only edit or delete your own message.
 I used AWS S3 to store images and heroku to deploy this node.js application using this repo.
 
 # How to use
-Simply go to [http://klauschaulandfill.wtf/](https://klaus-node-message.herokuapp.com/)  
+Simply go to [https://klaus-node-message.herokuapp.com/](https://klaus-node-message.herokuapp.com/)  
 npm start would not work as .env is not uploaded.  
 Source code is uploaded just for reference.  
 Thanks for staying.
