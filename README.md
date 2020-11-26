@@ -1,4 +1,4 @@
-# My free trial for AWS/Google Cloud has expired :( therefore, no photos will be shown/uploaded
+# My free trial for AWS/Google Cloud might expire when you visit the site :( therefore, no photos might be shown/uploaded
 
 # node-message-backend 
 This is the repo I deployed to heroku:  
